@@ -52,7 +52,11 @@ Designed an interactive map identifying safer locations during intense-rainfall 
 <!-- [View the interactive map](#) -->
 
 **🌋 Antarctic Peninsula — Magnetic Fabrics Research**
-Fieldwork and lab analysis (AMS/petrofabrics) on Jurassic pyroclastic flows, Hope Bay, Antarctic Peninsula. Published in *Studia Geophysica et Geodaetica* (2026).
+*Milanese, F.N., Iacono, L., et al. (2026). Studia Geophysica et Geodaetica, 70, 9.*
+
+New Anisotropy of Magnetic Susceptibility (AMS) data from Mid-to-Late Jurassic pyroclastic units in the northern Antarctic Peninsula, used to reconstruct volcanic paleoflow directions and provenance for the Kenney Glacier Formation. Results reveal a systematic shift in source area over time, refining tectonic models for the Jurassic Chon Aike Province during Gondwana breakup. Based on three months of fieldwork at Hope Bay (Dec 2021–Mar 2022): lithologic/structural characterization, compass and magnetic-susceptibility measurements, and sample collection for AMS/petrofabric analysis.
+
+[Read the paper (DOI: 10.1007/s11200-026-00015-8)](https://doi.org/10.1007/s11200-026-00015-8) — *published version behind a Springer paywall; full text available via institutional access.*
 
 ---
 
