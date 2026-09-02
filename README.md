@@ -8,32 +8,50 @@ Geoscientist and CONICET PhD researcher specializing in remote sensing and geolo
 
 ## Featured Projects
 
-### 🏔️ Snow-Avalanche Inventory — Punta de Vacas–Puente del Inca, Central Andes
+### 📊 Conference Posters (presented — publicly available)
+
+**Debris Flows in the Río Mendoza Valley, Summer 2026** — *3ª Jornada Ambiental UBA, 2026*
+Characterized mass-movement processes during the 2026 summer season near Polvaredas, comparing 2026 debris-flow events to the well-documented 2013 events at the same sites. Combined drone imagery, precipitation records, and spatial recurrence analysis to link triggering thresholds to antecedent soil moisture and snowmelt.
+
+![Debris flows 2026 poster](poster_2026_debris_flows.png)
+
+[Full-resolution PDF](poster_2026_debris_flows.pdf)
+
+---
+
+**Inventory of Debris Flows Occurred in 2013 Between Potrerillos and Las Cuevas, Mendoza** — *Encuentro IDEAN*
+Built an inventory of 111 debris-flow events along the National Route 7 corridor, mapped against regional geology and terrain models. Found flows concentrated in the Cordillera Frontal, primarily on volcanic rocks of the Choiyoi Group, triggered by intense localized rainfall on steep, high-availability-of-material slopes.
+
+![Debris flow inventory 2013 poster](poster_2013_inventory.png)
+
+[Full-resolution PDF](poster_2013_inventory.pdf)
+
+---
+
+### Other Project Work
+*(PhD thesis in progress — maps and figures will be added here as each result is published)*
+
+**🏔️ Snow-Avalanche Inventory — Punta de Vacas–Puente del Inca, Central Andes**
 First mapped snow-avalanche inventory for this sector of the National Route 7 corridor. Built from multitemporal satellite/drone imagery, 12.5–30 m DEMs, and field validation. Quantified start-zone slope, path length, runout distance, solar exposure, and proximity to exposed infrastructure.
 
-*Tools: QGIS, DEM terrain derivatives, Python (metric extraction & export)*
+*Tools: QGIS, DEM terrain derivatives, AI-assisted Python/QGIS workflows*
 
 <!-- ![avalanche inventory map](images/avalanche-inventory.png) -->
 
-### 🌊 Debris-Flow & Susceptibility Mapping — Upper Mendoza River Basin
+**🌊 Debris-Flow & Susceptibility Mapping — Upper Mendoza River Basin**
 End-to-end GIS/remote-sensing workflow combining satellite and drone imagery, terrain derivatives, historical records, and climate data to model debris-flow susceptibility along the Potrerillos–Las Cuevas corridor.
 
 <!-- ![debris flow susceptibility map](images/debris-flow-map.png) -->
 
-### 🧊 Glacial Landform Reconstruction with Q-GLARE
+**🧊 Glacial Landform Reconstruction with Q-GLARE**
 Mapped 50+ glacial landforms and applied Q-GLARE (QGIS plugin) with moraine elevation data and Schmidt hammer relative-age measurements to reconstruct glacier extents at approximately 40, 20, and 11 ka.
 
-### 🐍 Python + QGIS Automation Workflow
-Developed a Python-based workflow integrated with QGIS/PyQGIS to automate extraction and export of avalanche slope, length, and runout metrics to Excel, with iterative validation for geometric and geomorphological plausibility.
-
-<!-- Link or embed a code snippet / notebook here if available -->
-
-### 🗺️ Interactive Public-Safety Map
+**🗺️ Interactive Public-Safety Map**
 Designed an interactive map identifying safer locations during intense-rainfall and debris-flow events, built for non-specialist/public use.
 
 <!-- [View the interactive map](#) -->
 
-### 🌋 Antarctic Peninsula — Magnetic Fabrics Research
+**🌋 Antarctic Peninsula — Magnetic Fabrics Research**
 Fieldwork and lab analysis (AMS/petrofabrics) on Jurassic pyroclastic flows, Hope Bay, Antarctic Peninsula. Published in *Studia Geophysica et Geodaetica* (2026).
 
 ---
@@ -43,7 +61,7 @@ Fieldwork and lab analysis (AMS/petrofabrics) on Jurassic pyroclastic flows, Hop
 **GIS & Cartography:** QGIS (10 yrs) · ArcGIS Pro · Google Earth Pro · spatial databases · georeferencing/reprojection
 **Remote Sensing & EO:** Sentinel-1/2 · Landsat 5–9 · ASTER · ALOS-PALSAR · ENVI · classification · change detection
 **Terrain & Hazards:** DEM analysis · watershed modeling · geomorphological & susceptibility mapping
-**Programming:** Python (geospatial automation, PyQGIS) · Excel
+**Programming:** AI-assisted Python/QGIS workflows (execution & output validation) · Excel
 
 ## Publications
 
