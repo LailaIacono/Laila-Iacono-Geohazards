@@ -44,7 +44,7 @@ End-to-end GIS/remote-sensing workflow combining satellite and drone imagery, te
 <!-- ![debris flow susceptibility map](images/debris-flow-map.png) -->
 
 **🧊 Glacial Landform Reconstruction with Q-GLARE**
-Mapped 50+ glacial landforms and applied Q-GLARE (QGIS plugin) with moraine elevation data and Schmidt hammer relative-age measurements to reconstruct glacier extents at approximately 40, 20, and 11 ka.
+Mapped 50+ glacial landforms and applied Q-GLARE (QGIS plugin) with moraine elevation data and Schmidt hammer relative-age measurements to reconstruct glacier extents at approximately 40, 20, and 16 ka.
 ![Glacial evolution, Mendoza River Valley (Q-GLARE)](glacier_evolution.gif)
 
 **🗺️ Interactive Public-Safety Map**
